@@ -1,7 +1,19 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <section className="paginaInicial">
+    <div>
+      <Image
+      src="/banner.jpg"
+      width={1400}
+      height={500}
+      alt="banner"
+      className="m-2"
+      />
+    </div>
       <section className="logo">
+
 
       <img src="https://cdn2.steamgriddb.com/logo_thumb/915464a6b655320681a2a2557623a88c.png" alt="" />
 
