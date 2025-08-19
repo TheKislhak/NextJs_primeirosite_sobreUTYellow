@@ -1,0 +1,251 @@
+@import "tailwindcss";
+
+body {
+  background-color: #2B1135;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.naves {
+  background-color: black;
+  color: yellow;
+  display: flex;
+  width: 100%;
+  height: 60px;
+  align-items: center;
+  justify-content: center;
+}
+
+.lista {
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+  width: 30%;
+  font-size: 25px;
+}
+
+.rodape {
+  background-color: black;
+  color: yellow;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  flex-direction: column;
+  font-size: 25px;
+}
+
+.paginaInicial {
+  align-items: center;
+  background-color: #2B1135;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.oh1 {
+  font-size: 50px;
+}
+
+.sobre {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  font-size: 30px;
+  align-items: center;
+  color: yellow;
+  background-color: black;
+  border: solid white 4px;
+}
+
+.conheca {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  margin: 10px;
+  font-size: 3rem;
+}
+
+.personagens {
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  color: white;
+  border: solid white 4px;
+}
+
+.cloverimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Clover {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.clovertxt {
+  margin-left: 10px;
+}
+
+.dalvimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Dalv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.dalvtxt {
+  margin-left: 10px;
+}
+
+.martletimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Martlet {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.martlettxt {
+  margin-left: 10px;
+}
+
+.cerobaimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Ceroba {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.cerobatxt {
+  margin-left: 10px;
+}
+
+.starloimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Starlo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.starlotxt {
+  margin-left: 10px;
+}
+
+.chujinimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Chujin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.chujintxt {
+  margin-left: 10px;
+}
+
+.kanakoimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Kanako {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.kanakotxt {
+  margin-left: 10px;
+}
+
+.axisimg {
+  width: 10rem;
+  height: 10rem;
+}
+.Axis {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60rem;
+  margin: 10px;
+}
+.axistxt {
+  margin-left: 10px;
+}
+
+.historiah1 {
+  display: flex;
+  justify-content: center;
+  color: yellow;
+  margin: 10px;
+  font-size: 3rem;
+}
+
+.his {
+  color: white;
+  background-color: black;
+  border: solid white 2px;
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.his2 {
+  color: white;
+  background-color: black;
+  border: solid white 2px;
+  font-size: 1.5rem;
+  padding-left: 2rem;
+}
+
+.game {
+   display: flex;
+  justify-content: center;
+  color: yellow;
+  margin: 10px;
+  font-size: 3rem;
+}
+
+.sobregame {
+  font-size: 1.5rem;
+  color: yellow;
+}
+
+.imag {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.imgg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
